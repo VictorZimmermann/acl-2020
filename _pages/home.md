@@ -7,9 +7,6 @@ header:
   caption: 'Photo by Dirk Pohlers'
 excerpt: "<br/><br/>"
 ---
-
-![](/assets/images/wugs.png)<br/>
-
 <div class="text-center">
     <span style="font-weight: bold; font-size: smaller;"> Registration opens: Early 2021<br/></span>
     <span style="font-weight: bold; font-size: smaller;"> Call for Participation opens: Early 2021<br/></span>

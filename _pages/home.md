@@ -12,7 +12,7 @@ excerpt: "<br/><br/>"
 
 <div class="text-center">
     <span style="font-weight: bold; font-size: smaller;"> Registration opens: Early 2021<br/></span>
-    <span style="font-weight: bold; font-size: smaller;"> Call for Participation ppens: Early 2021<br/></span>
+    <span style="font-weight: bold; font-size: smaller;"> Call for Participation opens: Early 2021<br/></span>
     <span style="font-weight: bold; font-size: smaller;"> Main Conference : May 6 &ndash; May 8<br/></span>
 </div>
 

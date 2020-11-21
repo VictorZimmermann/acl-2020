@@ -16,11 +16,11 @@ main:
   #- title: "Registration"
   #  url: /registration
 
-  - title: "Participants/FAQs"
-    url: "/participants"
+  #- title: "Participants/FAQs"
+  #  url: "/participants"
 
-  - title: "Sponsors"
-    url: /sponsors/list/
+  #- title: "Sponsors"
+  #  url: /sponsors/list/
     
   #- title: "Calls"
   #  url: /calls/papers

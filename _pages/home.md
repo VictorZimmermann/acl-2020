@@ -7,10 +7,12 @@ header:
   caption: 'Photo by Dirk Pohlers'
 excerpt: "<br/><br/>"
 ---
+<img src="/assets/images/wugs.png", height="auto", width="50%", margin-top="50px"><br/>
+
 <div class="text-center">
+    <span style="font-weight: bold; font-size: smaller;"> Registration opens: Early 2021<br/></span>
+    <span style="font-weight: bold; font-size: smaller;"> Call for Participation ppens: Early 2021<br/></span>
     <span style="font-weight: bold; font-size: smaller;"> Main Conference : May 6 &ndash; May 8<br/></span>
-    <br/><br/>       
-    <a href="https://aclweb.org/conference/acl-2020-conference-registration/" target="_blank" class="btn btn--primary">Register Now</a>
 </div>
 
 <h2>News</h2>

@@ -7,7 +7,8 @@ header:
   caption: 'Photo by Dirk Pohlers'
 excerpt: "<br/><br/>"
 ---
-<img src="/assets/images/wugs.png", height="auto", width="50%", margin-top="50px"><br/>
+
+<img src="{{ site.baseurl }}/assets/images/wugs.png", height="auto", width="50%", margin-top="50px"><br/>
 
 <div class="text-center">
     <span style="font-weight: bold; font-size: smaller;"> Registration opens: Early 2021<br/></span>

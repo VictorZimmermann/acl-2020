@@ -14,16 +14,16 @@ minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ACL 2020"
+title                    : "69. Stuts + Tacos 2021"
 title_separator          : "-"
-name                     : "ACL"
-description              : "Official website for the 2020 Annual Conference of the Association for Computational Linguistics"
-url                      : "https://acl2020.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Stuts"
+description              : "Official website for the joint 69th Student Conference on Linguistics (69. Stuts) and Computational Linguistics Students Conference 2021 (Tacos 2021)"
+url                      : "https://69.stuts.de" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "acl-org/acl-2020" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "VictorZimmermann/acl-2020" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logos/acl-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "ACL 2020" # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/images/logos/stuts-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "Stuts + Tacos 2021" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -54,7 +54,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : aclmeeting
+  username               : stuts_official
 facebook:
   username               : 
   app_id                 :
@@ -107,7 +107,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/aclmeeting
+      url: https://twitter.com/stuts_official
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: 
@@ -122,7 +122,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://www.instagram.com/studentische_tagung_sprawi/
 
 
 # Reading Files

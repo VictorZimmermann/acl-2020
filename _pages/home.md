@@ -1,5 +1,5 @@
 ---
-title: "The Joint LXIX. Student Conference on Linguistics and Computational Linguistics Students Conference 2021"
+title: "The Joint LXIX. Student Conference on Linguistics<br/> and Computational Linguistics Students Conference 2021"
 layout: splash
 permalink: /
 header:

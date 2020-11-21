@@ -31,4 +31,4 @@ Felicitas Andermann
 Wiebke Richter<br/>
 
 <h3>University Liaison</h3>
-Wiebke Richter<br/>
+Paula Baer<br/>

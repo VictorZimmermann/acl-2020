@@ -1,20 +1,20 @@
 # main links
 main:
 
-  - title: "Schedule"
-    url: /schedule/
+  #- title: "Schedule"
+  #  url: /schedule/
 
   # - title: "LiveCaptions"
   #   url: /captions/
 
-  - title: "Program"
-    url: /program/keynotes/
+  #- title: "Program"
+  #  url: /program/keynotes/
 
-  - title: "Blog"
-    url: /blog
+  #- title: "Blog"
+  #  url: /blog
 
-  - title: "Registration"
-    url: /registration
+  #- title: "Registration"
+  #  url: /registration
 
   - title: "Participants/FAQs"
     url: "/participants"
@@ -22,14 +22,14 @@ main:
   - title: "Sponsors"
     url: /sponsors/list/
     
-  - title: "Calls"
-    url: /calls/papers
+  #- title: "Calls"
+  #  url: /calls/papers
 
-  - title: "Authors"
-    url: /authors/camera-ready-instructions
+  #- title: "Authors"
+  #  url: /authors/camera-ready-instructions
 
-  - title: "Reviewers"
-    url: /reviewers
+  #- title: "Reviewers"
+  #  url: /reviewers
 
   - title: "Committees"
     url: /committees/organization
@@ -71,10 +71,10 @@ committees:
      children:
        - title: "Organizing"
          url: /committees/organization
-       - title: "Senior Program"
-         url: /committees/program
-       - title: "Diversity &amp; Inclusion"
-         url: /committees/diversity-inclusion
+       #- title: "Senior Program"
+       #  url: /committees/program
+       #- title: "Diversity &amp; Inclusion"
+       #  url: /committees/diversity-inclusion
 
 # participants:
 #   - title: "Information for Participants"
@@ -87,7 +87,7 @@ committees:
 sponsors:
   - title: Sponsorship
     children:
-      - title: "List of Sponsors"
-        url: /sponsors/list/
+      #- title: "List of Sponsors"
+      #  url: /sponsors/list/
       - title: "Tiers &amp; Pricing"
         url: /sponsors/benefits/

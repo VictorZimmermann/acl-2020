@@ -37,7 +37,7 @@ The 69th Studentische Tagung Sprachwissenschaft (Stuts) will take place jointly 
 </tbody>
 </table>
 </center>
-<h5>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").</h5>
+<h5>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/worldclock/germany">CET</a> ("anywhere on Earth").</h5>
 
 <h2>Code of Conduct</h2>
 Stuts 69 and Tacos 2020 adhere to the <a href="https://berlincodeofconduct.org/">Berlin Code of Conduct</a>.

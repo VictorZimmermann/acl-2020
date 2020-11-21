@@ -1,5 +1,5 @@
 ---
-title: "The 58th Annual Meeting of the Association for <br/>Computational Linguistics"
+title: "The joint LXIX. Student Conference on Linguistics and Computational Linguistics Students Conference 2021"
 layout: splash
 permalink: /
 header:

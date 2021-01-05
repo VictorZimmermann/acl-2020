@@ -7,9 +7,6 @@ sidebar:
     nav: committees 
 ---
 
-<h3>Patronage</h3>
-[Martin Haspelmath](https://www.shh.mpg.de/person/42385/2375), Max Planck Institute für the Science of Human History
-
 <h3>Coordination Chairs</h3>
 Johanna Fürstenau<br/>
 Justina Schindler

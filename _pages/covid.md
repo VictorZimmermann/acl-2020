@@ -16,4 +16,4 @@ D) In a lockdown-situation similar to the one in place right now, StuTS and TaCo
 
 We'll keep you updated!  
 
-![conference modalities](/downloads/scenarios.jpg){:class="img-responsive"}
+![](/downloads/scenarios.jpg){:class="img-responsive"}

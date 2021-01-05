@@ -14,12 +14,8 @@ excerpt: "<br/><br/>"
 </div>
 
 <h2>News</h2>
-**November 21, 2020**. Our new website is live!
+**January 5, 2021**. Our new website is live!
 {: .notice--info}
-
-<div class="text-center">
-    <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
-</div>
 
 <h2>Welcome!</h2>
 
@@ -32,12 +28,12 @@ The 69th Studentische Tagung Sprachwissenschaft (Stuts) will take place jointly 
         <tr>
             <td>Main conference</td>
             <td>Thursday &ndash; Saturday</td>
-            <td>July 6 &ndash; 8, 2020</td>
+            <td>May 6 &ndash; 8, 2020</td>
         </tr>        
 </tbody>
 </table>
 </center>
-<h5>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/worldclock/germany">CET</a> ("anywhere on Earth").</h5>
+<h5>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/worldclock/germany">Central European Time</a> ("anywhere on Earth").</h5>
 
 <h2>Code of Conduct</h2>
 Stuts 69 and Tacos 2020 adhere to the <a href="https://berlincodeofconduct.org/">Berlin Code of Conduct</a>.

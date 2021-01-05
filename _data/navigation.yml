@@ -20,7 +20,7 @@ main:
     url: "/participants"
 
   - title: "Sponsors"
-    url: /sponsors/list/
+    url: /sponsors/benefits/
     
   #- title: "Calls"
   #  url: /calls/papers

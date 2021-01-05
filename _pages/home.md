@@ -14,7 +14,7 @@ excerpt: "<br/><br/>"
 </div>
 
 <h2>News</h2>
-**January 5, 2021**. Our new website is live!
+**January 6, 2021**. Our new website is live!
 {: .notice--info}
 
 <h2>Welcome!</h2>
